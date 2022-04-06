@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: chocolate cookies
+Favorite musician/band: Gentle Giant
+Favorite movie: inglorious Inglorious Bastards
+Requested grade in the course: 100
